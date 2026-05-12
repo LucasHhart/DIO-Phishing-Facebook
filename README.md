@@ -1,7 +1,3 @@
-# DIO-Phishing-Facebook
-Desafio do curso de Pentest da DIO
-
-
 # Sobre o Projeto
 
 Este projeto foi desenvolvido como parte do desafio prático da plataforma DIO, com o objetivo de aplicar conceitos de Segurança da Informação e Engenharia Social utilizando a ferramenta SEToolkit (Social-Engineer Toolkit)
