@@ -17,3 +17,18 @@ A proposta consiste em demonstrar, em ambiente controlado e para fins exclusivam
 - SEToolkit
 - Terminal Linux
 - Git & GitHub
+
+
+
+# Desenvolvimento do Projeto
+
+- Logar como sudo no Kali: ´sudo su´
+- Iniciar o setoolkit
+- Tipo de ataque: Social-Engineering Attacks > Web Site Attack Vectors > Credential Harvester Attack Method > Templates > Twiiter
+
+OBS: o site http://facebook.com não esta mais funcionando no setoolkit, por isso, utilizei o template do twiiter.
+
+<img width="1499" height="461" alt="image" src="https://github.com/user-attachments/assets/7d5a3541-2c2a-49ce-bd42-537d66b7eb3c" />
+
+<img width="644" height="354" alt="image" src="https://github.com/user-attachments/assets/6563e371-f5cd-475e-93a1-b2f084cf281d" />
+
